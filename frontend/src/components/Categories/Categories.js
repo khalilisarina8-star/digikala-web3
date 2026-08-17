@@ -51,7 +51,7 @@ export default function Categories(data) {
 
 
                   <img
-                    src="${category.image}"
+                    src="/digikala-web3${category.image}"
                     alt="${category.title}"
                     class="
                       w-20
