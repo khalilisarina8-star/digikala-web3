@@ -202,7 +202,7 @@ justify-between
 
 <img
 
-src="${product.image}"
+src="/digikala-web3${product.image}"
 
 class="
 w-full
