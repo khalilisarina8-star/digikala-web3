@@ -24,7 +24,7 @@ export default function PromotionalBanners(data) {
                   "
                 >
                   <img
-                    src="${banner.image}"
+                    src="/digikala-web3${banner.image}"
                     alt=""
                     class="
                       w-full

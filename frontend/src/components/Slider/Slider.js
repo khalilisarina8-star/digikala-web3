@@ -25,7 +25,7 @@ ${data.slides
 
 <img
 
-src="${slide.image}"
+src="/digikala-web3${slide.image}"
 
 class="
 w-full

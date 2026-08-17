@@ -31,7 +31,7 @@ block
 >
 
 <img
-src="${banner.image}"
+src="/digikala-web3${banner.image}"
 class="
 w-full
 h-[160px]

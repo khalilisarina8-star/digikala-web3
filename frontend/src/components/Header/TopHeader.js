@@ -39,7 +39,7 @@ md:gap-0
         class="shrink-0">
 
             <img
-            src="${data.logo}"
+            src="/digikala-web3${data.logo}"
             alt="logo"
             class="
             w-[120px]

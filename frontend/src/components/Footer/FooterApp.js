@@ -28,7 +28,7 @@ md:justify-start
 ">
 
   <img
-    src="/images/footerlogo2.png"
+    src="/digikala-web3/images/footerlogo2.png"
     alt="دیجی‌کالا"
     class="
     w-10
@@ -69,7 +69,7 @@ data.apps.map(app=>`
 
 <img
 
-src="${app.image}"
+src="/digikala-web3${app.image}"
 
 class="
 h-8

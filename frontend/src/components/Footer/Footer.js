@@ -44,7 +44,7 @@ const footerBrands = await getFooterBrands();
         >
 
           <img
-            src="${data.logo}"
+            src="/digikala-web3${data.logo}"
             class="
               w-[170px]
               object-contain

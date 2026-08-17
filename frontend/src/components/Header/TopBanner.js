@@ -6,7 +6,7 @@ export default function TopBanner(data) {
         class="block w-full"
       >
         <img
-          src="${data.image}"
+          src="/digikala-web3${data.image}"
           alt="Top Banner"
           class="
             block

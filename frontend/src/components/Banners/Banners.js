@@ -40,7 +40,7 @@ rounded-2xl
 
 <img
 
-src="${item.image}"
+src="/digikala-web3${item.image}"
 
 class="
 w-full

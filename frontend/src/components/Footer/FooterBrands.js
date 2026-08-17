@@ -51,7 +51,7 @@ border-gray-200
 
 <img
 
-src="${item.image}"
+src="/digikala-web3${item.image}"
 
 class="
 max-w-[90px]

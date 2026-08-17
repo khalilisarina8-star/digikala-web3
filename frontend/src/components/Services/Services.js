@@ -100,7 +100,7 @@ font-bold
 
 <img
 
-src="${item.image}"
+src="/digikala-web3${item.image}"
 
 class="
 w-[44px]

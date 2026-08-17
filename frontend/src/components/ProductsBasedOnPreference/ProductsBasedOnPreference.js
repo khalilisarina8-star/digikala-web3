@@ -126,7 +126,7 @@ export default function ProductsBasedOnPreference(data) {
                       >
 
                         <img
-                          src="${product.image}"
+                          src="/digikala-web3${product.image}"
                           alt="${product.name}"
                           class="
                             w-full

@@ -131,7 +131,7 @@ export default function EyelashEnhancers(data) {
                             >
 
                               <img
-                                src="${product.image}"
+                                src="/digikala-web3${product.image}"
                                 alt="${product.name}"
                                 class="
                                   w-full

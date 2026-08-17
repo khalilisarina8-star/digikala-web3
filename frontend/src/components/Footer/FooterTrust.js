@@ -109,7 +109,7 @@ export default function FooterTrust(data) {
             >
 
               <img
-                src="${logo.image}"
+                src="/digikala-web3${logo.image}"
                 alt="${logo.title}"
                 class="
                   max-w-[60px]

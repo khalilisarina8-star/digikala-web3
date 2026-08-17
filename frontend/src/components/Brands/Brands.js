@@ -111,7 +111,7 @@ export default function Brands(data) {
 
 
                         <img
-                          src="${brand.image}"
+                          src="/digikala-web3${brand.image}"
                           alt="${brand.name}"
                           class="
                             max-w-[90px]

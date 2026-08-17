@@ -149,7 +149,7 @@ export default function HottestProducts(data) {
                                         justify-center
                                         overflow-hidden
                                       "><img
-                                        src="${product.image}"
+                                        src="/digikala-web3${product.image}"
                                         alt="${product.name}"
                                         class="
                                           w-full

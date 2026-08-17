@@ -30,7 +30,7 @@ gap-3
 
 <img
 
-src="${item.image}"
+src="/digikala-web3${item.image}"
 
 class="
 w-14
